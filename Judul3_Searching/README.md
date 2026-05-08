@@ -49,4 +49,4 @@ Penjelasan output dari source code:
 10. Output tersebut menunjukkan bahwa barang yang dicari tidak ditemukan di dalam daftar stok toko.
 11. Setelah hasil pencarian ditampilkan, program selesai dijalankan.
 
-Link YouTube : 
+Link YouTube : https://youtu.be/sus2m0ju7co
