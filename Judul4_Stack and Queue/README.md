@@ -14,9 +14,13 @@ akan ditempatkan di posisi paling atas. Jika pengguna mengambil buku, maka buku 
 dihapus terlebih dahulu. Program juga dapat menampilkan seluruh isi tumpukan buku dari atas ke bawah.
 
 Source Code:
+
 <img width="657" height="840" alt="Screenshot 2026-05-16 210933" src="https://github.com/user-attachments/assets/70a37787-3541-4e65-8f42-ac75a27e5d47" />
+
 <img width="559" height="210" alt="Screenshot 2026-05-16 210959" src="https://github.com/user-attachments/assets/8fe24959-df50-4275-9737-d9cf798a02ff" />
+
 <img width="511" height="796" alt="Screenshot 2026-05-16 211016" src="https://github.com/user-attachments/assets/5b8658a3-b37c-4816-86ab-0a182a827f09" />
+
 <img width="416" height="154" alt="Screenshot 2026-05-16 211031" src="https://github.com/user-attachments/assets/d4310214-5592-46bb-8154-91f156d0ae66" />
 
 Penjelasan source code per baris:
@@ -53,7 +57,9 @@ Penjelasan source code per baris:
 31. Program akan berhenti ketika pengguna memilih menu keluar.
 
 Output Program:
+
 <img width="405" height="846" alt="Screenshot 2026-05-16 212102" src="https://github.com/user-attachments/assets/b0a570d2-1b33-4da0-84bb-f721b6dd6156" />
+
 <img width="360" height="645" alt="Screenshot 2026-05-16 212201" src="https://github.com/user-attachments/assets/b8c245d6-fd94-4a19-8559-52fe1da78489" />
 
 Penjelasan Output Program:
