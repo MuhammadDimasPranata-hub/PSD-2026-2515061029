@@ -11,7 +11,7 @@ berdasarkan NPM, dan menampilkan seluruh data mahasiswa. Struktur Binary Search 
 proses pencarian data menjadi lebih cepat karena data disusun secara terurut. Jika NPM yang dicari lebih
 kecil dari node saat ini maka pencarian bergerak ke kiri, sedangkan jika lebih besar maka pencarian bergerak ke kanan.
 
-Source Code:
+Source Code:_____________________________________________________________________________________________________________
 <img width="842" height="883" alt="Screenshot 2026-05-22 223849" src="https://github.com/user-attachments/assets/efbea399-ab6c-4526-98b3-02db69d62cd5" />
 <img width="793" height="442" alt="Screenshot 2026-05-22 224004" src="https://github.com/user-attachments/assets/06c1e175-62a5-4f18-be75-932658e6570d" />
 <img width="666" height="864" alt="Screenshot 2026-05-22 224045" src="https://github.com/user-attachments/assets/b1bffa14-b606-4059-ab40-3410f5dabb18" />
@@ -98,9 +98,11 @@ Penjelasan source code per baris:
 78. Baris if __name__ == "__main__": digunakan untuk memastikan program dijalankan langsung.
 79. Fungsi main() dipanggil untuk menjalankan seluruh program.
 
-Output Program:
+Output Program:_____________________________________________________________________________________________________
 <img width="427" height="776" alt="Screenshot 2026-05-22 224356" src="https://github.com/user-attachments/assets/e2e9970e-fa54-4889-95e1-f00afb3d4781" />
+________________________________________________________________________________
 <img width="421" height="723" alt="Screenshot 2026-05-22 224420" src="https://github.com/user-attachments/assets/9a392ceb-cf8c-4dfa-8f61-aa3ed60a2788" />
+________________________________________________________________________________
 <img width="388" height="814" alt="Screenshot 2026-05-22 224440" src="https://github.com/user-attachments/assets/a60004d0-16c5-401b-9212-196c8432fb91" />
 
 Penjelasan Output Program:
@@ -120,4 +122,4 @@ Penjelasan Output Program:
 14. Terakhir pengguna memilih menu keluar.
 15. Program menampilkan pesan “Program selesai” yang menandakan program telah berhenti dijalankan.
 
-Link Youtube:
+Link Youtube: https://youtu.be/BrNl-jwmJIg
